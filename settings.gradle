@@ -1,0 +1,3 @@
+include ':mandeepmidterm2'
+include ':app'
+rootProject.name = "Mandeepmidterm1"
